@@ -1,0 +1,22 @@
+.searchBtn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: teal;
+    border-radius: 12px;
+    width: 120px;
+    height: 35px;
+    font-size: 18px;
+    color: white;
+    padding: 6px 0;
+}
+
+.searchBtn:hover {
+    background-color: aqua;
+    transition-duration: 1s;
+}
+
+.searchIcon {
+    flex-direction: column;
+    padding: 0px 3px;
+}

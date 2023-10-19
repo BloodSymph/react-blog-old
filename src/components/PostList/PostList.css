@@ -1,0 +1,22 @@
+@media (max-width: 992px) {
+    .post-column {
+        padding: 20px 0px;
+    }
+}    
+
+.post-list {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.post-column {
+    padding: 20px 0px;
+}
+
+.posts-error {
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 2px;
+}
+

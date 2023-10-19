@@ -1,0 +1,39 @@
+/*Imports*/
+@import "nullstyle.css";
+
+/*BasicStyles*/
+html, body {
+    height: 100%;
+    overflow-x: hidden;
+}
+
+#root {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    font-family: "Lucida Calligraphy";
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0px auto;
+}
+
+@media (max-width: 1200px) {
+    .container {
+        max-width: 970px;
+    }
+}
+
+@media (max-width: 992px) {
+    .container {
+        max-width: 750px;
+    }
+}
+
+@media (max-width: 767px) {
+    .container {
+        max-width: 620px;
+    }
+}
+

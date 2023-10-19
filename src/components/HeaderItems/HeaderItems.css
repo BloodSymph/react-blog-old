@@ -1,0 +1,20 @@
+.header-items {
+    text-align: center;
+    padding: 220px 0px;
+}
+
+.header-title {
+    font-size: 40px;
+    letter-spacing: 2px;
+    color: white;
+    margin: 0px 0px 40px 0px;
+}
+
+.header-text {
+    font-size: 24px;
+    letter-spacing: 1px;
+    line-height: 1.4;
+    color: white;
+    opacity: 0.70;
+    margin: 0px 0px 145px 0px;
+}

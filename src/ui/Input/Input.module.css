@@ -1,0 +1,14 @@
+.search {
+    border: 2px solid aqua;
+    width: 60%;
+    height: 45px;
+    border-radius: 12px;
+    box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.50);
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+.search:focus {
+    transition-duration: 0.7s;
+    box-shadow: 0px 0px 18px aqua;
+}

@@ -1,0 +1,19 @@
+.btn {
+    display: inline-block;
+    background-color: darkcyan;
+    width: 140px;
+    height: 40px;
+    border-radius: 12px;
+    font-size: 18px;
+    font-family: Century;
+    text-align: center;
+    color: white;
+    letter-spacing: 1px;
+    padding: 10px 0px;
+    margin: 0px 30px ;
+}
+
+.btn:hover {
+    transition-duration: 1s;
+    background-color: aqua;
+}

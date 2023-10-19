@@ -1,0 +1,18 @@
+.footer {
+    width: 100%;
+    min-height: 120px;
+    background-color: rgba(0, 0, 0, 0.90);
+}
+
+.footer-body {
+    padding: 20px 0px;
+}
+
+.watermark {
+    font-size: 18px;
+    letter-spacing: 2px;
+    font-weight: 700;
+    text-align: center;
+    color: white;
+    padding: 20px 0px 0px 0px;
+}
